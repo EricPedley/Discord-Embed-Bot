@@ -1,0 +1,17 @@
+GET /video/tos/useast2a/tos-useast2a-ve-0068c002/2eac82396f774434ac18dffb4a19708b/?a=1988&br=852&bt=426&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1620025087&l=202105030057520101880612274BE740C1&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=Mzk6cTZ1dzxmNDMzOjczM0ApNDVmO2hlZzszNzo4OjY8aWczZm82bjZqZDVgLS1eMTZzc2ItMF4uNGNhLjE2YTZfNDU6Yw==&signature=287ee7602fb20a806565854a141565e8&tk=tt_webid_v2&vl=&vr= HTTP/1.1
+Host: v16-web.tiktok.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+Accept-Encoding: identity;q=1, *;q=0
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: video
+Referer: https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c002/2eac82396f774434ac18dffb4a19708b/?a=1988&br=852&bt=426&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1620025087&l=202105030057520101880612274BE740C1&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=Mzk6cTZ1dzxmNDMzOjczM0ApNDVmO2hlZzszNzo4OjY8aWczZm82bjZqZDVgLS1eMTZzc2ItMF4uNGNhLjE2YTZfNDU6Yw==&signature=287ee7602fb20a806565854a141565e8&tk=tt_webid_v2&vl=&vr=
+Accept-Language: en-US,en;q=0.9
+Cookie: tt_webid_v2=6943364522414032390; tt_webid=6943364522414032390; ttwid=1%7C5b_JJqmc6pLG_mZvT-7hNIneOswz-p7D9T1UaDan8Fk%7C1617660080%7Cc0e2ccdf70be63c05ade4864e6e643d8e0a6f11d38d788e65a8507db3d8991bd; tt_csrf_token=I7PJ3EtkbnSaqHkhyw6vZDXE; R6kq3TV7=AAHvsS95AQAAf2fWegL-ialwNLiUYhNYxyCBhIL0zzZvBCi7ivO_oYRIULol|1|0|4b79711eab0055182a161100fbf7512eb04b970e; ak_bmsc=C3A1CB78DD2CAE78B722F2A0B0399B5A172D7017EA7400002E488F609463D509~plRTNSsXnlGN+cIDYe0mkwlcltohKrG9wwDZgj9H+A0/QvcCOBKT6Hk/QRq90pvyd4byqHX8ZQBbm4s+Mp8NKNtw711UbhtRqjfpPu/erqp85OBUuRQ5xASlmysC1FXZhNSJWHOWkOxY079hIHlM6qrWtlE1/0OUZH8OTOW3Na5rmPJdCpcOoys+P3jb6p1mxXy8aS7o77rTr939csWIoeUNdCke0wl7fTDd2aNsBSCLw=; bm_sz=62C72122453FF0B9D179F2B8C0168DF0~YAAQF3AtF2rrwCF5AQAAePSxLwsxm6k8Ku1OmaFwoT+2a5YPABKpvwEQ8CwJiDvvlos2Q0RLArKOsSz7qa5eavDxkOuKmKNwzrzpF4MbNNF4TKV9hByCNPA/figKzM/HGDXzFQnw7EZHbs3FFr04pI0czYMXPNDKzynIP21Eu+fUPAPSwEpx70yAq6b+gvEc; _abck=39D27D20EC9E5B4A5890D9F00FE19227~0~YAAQF3AtF2vrwCF5AQAAePSxLwXTvdV0jJhW7YXmtPMTKyvOJQREmj2k3+eyIRH6Cw1Fv9As5MfnoHiQ84XRARAr03EaxNnkZBLy7Bspa/bS3Z9QsYDpqwM4qzOt7om6/YQoClHujPs51rLErfb558xJvx9s4qXBNah/tS3Tk7J03A70h2JJCJDyIDrFJuL7/ZgG+CMmxkdVV1PJgHEL1KAmX61K69uq8eYjHkJygoKNXr+WpphgTwtrBb2pQv5UcRUrZzhMjchS4nI1yGlIDPS8b51JwSJ6ObQYddDA8x83ongK2z7Zy+plefawxwvWU9mvhwlEbUduejYoGH3z93DVy6kNtTsD2+/PJQi5X0zNe+HP9whgQ0SaNpGkNYRHM4f3jZiirUAuwkkxfUPu5YeQ7QQKN8RF~-1~-1~-1; bm_sv=CE8E61D19E9FCC6F62F4A1C080F0276C~ZKM2InGmr8FEBTxk1qh528ccP15JhnBJhD8aNuIniw1hjWChw/vvslYu4NjF5+dLkNAk8QZ6bJ0HOGBLNEbB4loQAhUh6hIZQ9XmXyOOUgtTVaNgxa6/Ptah8b7ZXuwup12tct1bRz3mNGKz0wCHma+xZ2oiAHTWMwpRcfOsRzw=
+Range: bytes=0-
