@@ -1,5 +1,5 @@
 # Discord bot that saves you from epic embed fails
-![Epic embed clutch gif](https://i.giphy.com/media/l3sSaz59d5fy0tdew9/giphy.webp)
+![Epic embed clutch gif. really ironic if this fails to render](https://i.giphy.com/media/l3sSaz59d5fy0tdew9/giphy.webp)
 
 ## The problem: 
 discord doesn't embed instagram or tiktok links
